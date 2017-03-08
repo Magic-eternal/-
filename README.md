@@ -3,3 +3,5 @@
 
 1，java 学习流程
    http://blog.csdn.net/bear_huangzhen/article/details/46934211
+2,入门基础视频
+   http://edu.csdn.net/course/detail/791/10753?auto_start=1
